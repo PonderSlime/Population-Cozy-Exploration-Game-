@@ -1,0 +1,13 @@
+This game takes the player around the world in a small aircraft. You get to explore cities, like New York, San Francisco, Paris, Madrid, London, Frankfurt, and Venice. I am not really sure what the goal is yet
+
+MECHANICS
+- Flying to reach the different cities
+- Walking to explore the city
+- Quests that provide better reasons for visiting each city?
+- NPCs you can talk to
+- Unique characters, so a base, but each character would have a different outfit or skin texture!
+
+CUSTOM CITY TOOL
+I plan on creating a custom tool that would aid in the creation of the cities.
+It will have road generation, house generation, foliage generation, and more.
+Overall, it will be very complex to create, as there will be many parts to it!
