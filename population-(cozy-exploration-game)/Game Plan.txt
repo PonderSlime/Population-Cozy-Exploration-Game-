@@ -7,7 +7,7 @@ MECHANICS
 - NPCs you can talk to
 - Unique characters, so a base, but each character would have a different outfit or skin texture!
 
-CUSTOM CITY TOOL
-I plan on creating a custom tool that would aid in the creation of the cities.
-It will have road generation, house generation, foliage generation, and more.
+CUSTOM CITY
+I plan on creating a collection of assets that would aid in the creation of the cities.
+It will have road generation, houses and buildings, foliage generation, and of course, landmarks.
 Overall, it will be very complex to create, as there will be many parts to it!
